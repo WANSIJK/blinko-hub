@@ -1,0 +1,8 @@
+# 示例站点配置
+title: "WANSIJK"
+url: "https://note.wansijk.fun:5515"
+tags: 
+  - english    # 语言标签
+  - research   # 内容焦点
+  - tech       # 主题领域
+created_at: "2025-07-24"
